@@ -4,7 +4,7 @@
 - 📫 How to reach me: pavelbutnotpavel@email.ua
 
 My Projects:
-1 CommandMine - A Minecraft clone that works on the command line. Written in C++
+- CommandMine - A Minecraft clone that works on the command line. Written in C++
 <!---
 pavelbutnotpavel/pavelbutnotpavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
